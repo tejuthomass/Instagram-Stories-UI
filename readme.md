@@ -4,7 +4,7 @@ Building the Instagram stories UI with HTML and Tailwind CSS!
 
 ## View Deployment
 
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://tejuthomass.github.io/Instagram-Stories-UI/)
 
 ## Reference & Credits
 
